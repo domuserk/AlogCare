@@ -83,9 +83,9 @@ This is an example of how to list things you need to use the software and how to
   ``` sh
    npm i @lottiefiles/lottie-player
   ```
-4. Install bootstrap dependency npm install
- ```
- sh--save react-bootstrap bootstrap@3
+4. Install bootstrap dependency 
+ ```sh
+   npm i --save react-bootstrap bootstrap@3
  ```
 
 <!-- USAGE EXAMPLES -->
